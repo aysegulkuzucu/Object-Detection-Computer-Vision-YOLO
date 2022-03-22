@@ -10,7 +10,7 @@ Nesne tespiti de, dijital görüntülerde ve videolarda belirli bir sınıftaki 
 
 ![image](https://user-images.githubusercontent.com/61588968/159536696-ae4f5c4e-4fbb-4e44-afe0-444278c9bf1d.png)
 
-Yaptığım çalışmada çalışmada scale yolov4 modelini kullandım. Bu işlem için de Google colabrator aracını kullandım. Çünkü Google colabraty bize ücretsiz gpu sağlayan bir araç. 
+Yaptığım çalışmada scale yolov4 modelini kullandım. Bu işlem için de Google colabrator aracını kullandım. Çünkü Google colabraty bize ücretsiz gpu sağlayan bir araç. 
 
 Bu şekilde anlık olarak web kameramız üzerinden object detection işlemi gerçekleştirdim. Bunu hazır eğitilmiş bir modelin ağırlıkları üzerinden gerçekleştirdim. Aslında biz bunu kendi ettiğimiz bir modelin ağırlıklarını kullanarak da tabii ki yapabilirdik. 
 
